@@ -27,6 +27,10 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+.msj
+.mtj.temp
+Application Descriptor
+bin
 
 # Thumbnails
 ._*
